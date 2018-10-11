@@ -1,1 +1,2 @@
 # Naive-Bayes
+Bayes Theorem
